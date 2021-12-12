@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-12T07:11:20 MST" name="Default suite" finished-at="2021-12-12T07:11:21 MST" duration-ms="1799">
+    <groups>
+    </groups>
+    <test started-at="2021-12-12T07:11:20 MST" name="Default test" finished-at="2021-12-12T07:11:21 MST" duration-ms="1799">
+      <class name="dataDrivenFramework.DataDriven">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:dataDrivenFramework.DataDriven@29626d54]" started-at="2021-12-12T07:11:15 MST" name="initialize" finished-at="2021-12-12T07:11:20 MST" duration-ms="4726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="init()[pri:0, instance:dataDrivenFramework.DataDriven@29626d54]" started-at="2021-12-12T07:11:20 MST" name="init" finished-at="2021-12-12T07:11:21 MST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dataDrivenFramework.DataDriven@29626d54]" started-at="2021-12-12T07:11:21 MST" name="tearDown" finished-at="2021-12-12T07:11:21 MST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dataDrivenFramework.DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
